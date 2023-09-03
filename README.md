@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working on **web projects and getting a certification in pentesing**
 
-- 🌱 I’m currently learning **web penatration testing**
-
 - 📫 How to reach me **turhtk100100@gmail.com**
 
 - ⚡ Fun fact **AI is going to wipe us out :)**
