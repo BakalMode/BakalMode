@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakalmode&label=Profile%20views&color=0e75b6&style=flat" alt="bakalmode" /> </p>
 
-- 🔭 I’m currently working on **web projects and getting a certification in pentesing**
+- 🔭 Cyber Security Engineer, always looking to learn and improve**
 
 - 📫 How to reach me **turhtk100100@gmail.com**
 
