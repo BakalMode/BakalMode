@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Uriel</h1>
-<h3 align="center">A passionate fullstack developer from Israel🇮🇱</h3>
+<h3 align="center">A passionate Cyber Security Engineer from Israel🇮🇱</h3>
 <img align="right" alt="[Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bakalmode&label=Profile%20views&color=0e75b6&style=flat" alt="bakalmode" /> </p>
 
-- 🔭 Cyber Security Engineer, **always looking to learn and improve**
+- 🔭 **always looking to learn and improve**
 
 - 📫 How to reach me **turhtk100100@gmail.com**
 
